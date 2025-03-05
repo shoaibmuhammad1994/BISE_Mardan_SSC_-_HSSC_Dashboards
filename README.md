@@ -1,7 +1,7 @@
 # **BISE Mardan Examination Dashboard (SSC & HSSC)**
 
 ## **📌 Overview**  
-This project features two **Power BI dashboards** for the **Secondary School Certificate (SSC)** and **Higher Secondary School Certificate (HSSC)** examinations conducted by **BISE Mardan**. The dashboards provide an in-depth analysis of student performance, helping education stakeholders make **data-driven decisions** to improve academic outcomes.
+This project features two **Power BI dashboards** for the [<a href="https://app.powerbi.com/view?r=eyJrIjoiM2U3MjkyYjYtM2YzMC00ZmVlLTg3YmQtMDkwYjdhZmFiNTY0IiwidCI6IjU3OTJiYTExLTIzNTYtNDMzMy1iZjM5LTk1OWQ0NmZkMDNiOCIsImMiOjF9&pageName=330b84d20b8d6519916b" target="_blank">**Secondary School Certificate (SSC)**</a>] and [<a href="https://app.powerbi.com/view?r=eyJrIjoiNDc1OGM5OGItNjZmYi00YjFlLThjN2MtM2MzYzU3NTAzYTlkIiwidCI6IjU3OTJiYTExLTIzNTYtNDMzMy1iZjM5LTk1OWQ0NmZkMDNiOCIsImMiOjF9&pageName=330b84d20b8d6519916b" target="_blank">**Higher Secondary School Certificate (HSSC)**</a>] examinations conducted by **BISE Mardan**. The dashboards provide an in-depth analysis of student performance, helping education stakeholders make **data-driven decisions** to improve academic outcomes.
 
 Both dashboards are designed to explore:  
 ✔ Student performance by **district, school type, and gender**  
