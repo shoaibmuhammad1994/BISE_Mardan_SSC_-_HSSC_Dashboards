@@ -8,7 +8,7 @@ Both dashboards are designed to explore:
 ✔ Comparative insights between **government and private institutions**  
 ✔ **Pass rates, grade distribution, and top-performing schools**  
 ✔ Trends across **Annual-I and Annual-II sessions**  
-✔ **Students pass ratio** 
+✔ **Students pass ratio**   
 ✔ **Performance of privately appeared (independent) student** 
 
 ## **📊 Key Features & Insights**  
