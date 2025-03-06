@@ -8,6 +8,8 @@ Both dashboards are designed to explore:
 ✔ Comparative insights between **government and private institutions**  
 ✔ **Pass rates, grade distribution, and top-performing schools**  
 ✔ Trends across **Annual-I and Annual-II sessions**  
+✔ **Students pass ratio** 
+✔ **Performance of privately appeared (independent) student** 
 
 ## **📊 Key Features & Insights**  
 
@@ -15,7 +17,8 @@ Both dashboards are designed to explore:
 - **Total Students**: Count of students appearing in the exams  
 - **Pass Percentage**: Percentage of students who passed  
 - **Grade Distribution**: Breakdown of A1, A, B, C, etc.  
-- **Average Marks**: Comparison across schools, districts, and genders  
+- **Average Marks**: Comparison across schools, districts, and genders
+- **District Wise**: Comparison of schools and students across districts
 
 ### **2️⃣ District & School-Level Analysis**  
 - **Top & Bottom Performing Schools** based on average marks  
@@ -27,7 +30,7 @@ Both dashboards are designed to explore:
 
 ### **4️⃣ Gender-Based Performance**  
 - **Pass rates & grade distribution** for male vs. female students  
-- **School Type Analysis**: Boys, Girls, and Co-Ed school performance  
+- **School Type Analysis**: government-owned and privately-owned schools performance  
 
 ### **5️⃣ Trend Analysis Across Years & Sessions**  
 - Session-based insights for **Annual-I & Annual-II**  
