@@ -1,7 +1,9 @@
 # **BISE Mardan Examination Dashboard (SSC & HSSC)**
+## - **<a href="https://app.powerbi.com/view?r=eyJrIjoiM2U3MjkyYjYtM2YzMC00ZmVlLTg3YmQtMDkwYjdhZmFiNTY0IiwidCI6IjU3OTJiYTExLTIzNTYtNDMzMy1iZjM5LTk1OWQ0NmZkMDNiOCIsImMiOjF9&pageName=330b84d20b8d6519916b" target="_blank">**SSC Result Analysis Live Dashboard**</a>**
+## - **<a href="https://app.powerbi.com/view?r=eyJrIjoiNDc1OGM5OGItNjZmYi00YjFlLThjN2MtM2MzYzU3NTAzYTlkIiwidCI6IjU3OTJiYTExLTIzNTYtNDMzMy1iZjM5LTk1OWQ0NmZkMDNiOCIsImMiOjF9&pageName=330b84d20b8d6519916b" target="_blank">**HSSC Result Analysis Live Dashboard**</a>**
 
 ## **📌 Overview**  
-This project features two **Power BI dashboards** for the [<a href="https://app.powerbi.com/view?r=eyJrIjoiM2U3MjkyYjYtM2YzMC00ZmVlLTg3YmQtMDkwYjdhZmFiNTY0IiwidCI6IjU3OTJiYTExLTIzNTYtNDMzMy1iZjM5LTk1OWQ0NmZkMDNiOCIsImMiOjF9&pageName=330b84d20b8d6519916b" target="_blank">**Secondary School Certificate (SSC)**</a>] and [<a href="https://app.powerbi.com/view?r=eyJrIjoiNDc1OGM5OGItNjZmYi00YjFlLThjN2MtM2MzYzU3NTAzYTlkIiwidCI6IjU3OTJiYTExLTIzNTYtNDMzMy1iZjM5LTk1OWQ0NmZkMDNiOCIsImMiOjF9&pageName=330b84d20b8d6519916b" target="_blank">**Higher Secondary School Certificate (HSSC)**</a>] examinations conducted by **BISE Mardan**. The dashboards provide an in-depth analysis of student performance, helping education stakeholders make **data-driven decisions** to improve academic outcomes.
+This project features two **Power BI dashboards** for the Secondary School Certificate (SSC) and Higher Secondary School Certificate (HSSC) examinations conducted by **BISE Mardan**. The dashboards provide an in-depth analysis of student performance, helping education stakeholders make **data-driven decisions** to improve academic outcomes.
 
 Both dashboards are designed to explore:  
 ✔ Student performance by **district, school type, and gender**  
@@ -18,12 +20,11 @@ Both dashboards are designed to explore:
 - **Pass Percentage**: Percentage of students who passed  
 - **Grade Distribution**: Breakdown of A1, A, B, C, etc.  
 - **Average Marks**: Comparison across schools, districts, and genders
-- **District Wise**: Comparison of schools and students across districts
 
 ### **2️⃣ District & School-Level Analysis**  
 - **Top & Bottom Performing Schools** based on average marks  
 - **District-wise Student Performance** with interactive comparisons  
-- **Government vs. Private Schools** success rates  
+- **Government vs. Private Schools** success rates
 
 ### **3️⃣ Private vs. Regular Students**  
 - Performance analysis of **private (independent) students** vs. **school-enrolled students**  
